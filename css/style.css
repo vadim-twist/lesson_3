@@ -1,0 +1,92 @@
+h1{
+	color: #8B0000;
+}
+
+h2{
+	color: #8B4513;
+}
+
+h3{
+	color: #A0522D;
+}
+
+a{
+	color: #7B68EE;
+}
+
+.header-content-text{
+	color: #006400;
+}
+
+li.menu-list-item{
+	color: #FF0000;
+}
+
+.menu-list-item a{
+	color: #8B4513;
+}
+
+.etymology-img + p{
+	color: #FF4500;
+}
+
+.etymology-text{
+	color: 	#008000;
+}
+
+.indigenous-people p,
+.european-colonization p{
+	color: #4d4542;
+}
+
+.canada-from-80-to-15-text{
+	color: #006400;
+}
+
+.canada-from-80-to-15-text span{
+	color: #DC143C;
+}
+
+.geograhy-img ~ div{
+	color: #8B0000;
+}
+
+.nature-text{
+	color: #4a3f16;
+}
+
+.atlantic-canada > p,
+.quebec > p,
+.ontario > p{
+	color: #006400;
+}
+
+.alberta-manitoba-saskatchewan-text,
+.britishcolumbia-text,
+.nunavut-yukon-text{
+	color: #006400;
+}
+
+.atlantic-canada-text span,
+.quebec-text span,
+.ontario-text span,
+.alberta-manitoba-saskatchewan-text span,
+.britishcolumbia-text span,
+.nunavut-yukon-text span{
+	color: 	#DC143C;
+}
+
+.alberta-img ~ p{
+	color: #FF4500;
+}
+
+.manitoba-img + p{
+	color: #FF4500;
+}
+
+.saskatchewan-text,
+.nunavut-text,
+.yukon-text{
+	color: #FF4500;
+}
+
